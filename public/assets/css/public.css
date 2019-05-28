@@ -1,8 +1,4 @@
-.background-image{
-    background-color: red;
-    background-image: url("../images/newspaper.jpg");
-    
-}
+
 
 @media (min-width: 1px) {
     .display-1 {
